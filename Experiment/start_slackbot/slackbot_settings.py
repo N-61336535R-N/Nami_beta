@@ -1,7 +1,7 @@
 # ライブラリのインポート
 import os
 
-# 環境変数に定義しておく
+
 API_TOKEN = os.environ['BOT_API_TOKEN']
 
 # デフォルトの応答
